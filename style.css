@@ -1,7 +1,7 @@
-/* .formstyle  
+.formstyle  
 {  
-width: 300px;  
-height: 330px;  
+width: 350px;  
+height: 450px;  
 margin: 20px auto;  
 border: 3px solid skyblue;  
 border-radius: 5px;  
@@ -9,7 +9,7 @@ padding: 20px;
 text-align: center;  
 background-color: grey;  
 }  
-   */
+  
 /* Display top horizontal bar that contain some information. */  
 h1 {  
     text-align: center;  
@@ -22,11 +22,6 @@ input:hover
 background-color: green;  
 } 
 
-/* Centering the calculator */
-.formstyle {
-    width: 300px;
-    margin: 0 auto;
-}
 
 /* Styling the textview */
 .textview {
